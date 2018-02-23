@@ -4,5 +4,6 @@
 package teste;
 
 public class teste1 {
-	
+	int a;
+	int b;
 }
